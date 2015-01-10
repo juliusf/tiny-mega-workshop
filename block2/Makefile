@@ -1,6 +1,6 @@
 AVR_CHIP = atmega32u4
 AVR_CHIP_FREQUENCY = 16000000
-CODE_MAIN = helloworld
+CODE_MAIN = module2
 
 AVR_PROGRAMMER = dfu-programmer
 AVR_COMPILER = avr-gcc
